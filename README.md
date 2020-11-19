@@ -1,5 +1,4 @@
 # Final-Project-Parmigiana
-This is for QTM 350.
 
 In this project, we focused on analyzing the effect of different clothing colors on AWS Rekognition. 
 
